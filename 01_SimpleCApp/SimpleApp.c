@@ -2,6 +2,7 @@
 
 int main()
 {
-    greet();
+    printf("Hello");
+    printf(" World!");
     
 }
