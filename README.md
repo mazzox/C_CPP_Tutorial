@@ -1,2 +1,2 @@
 # C_CPP_Tutorial
-This is a C/C++ Tutorial Serie
+This is a C/C++ Tutorial Series.
